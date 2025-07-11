@@ -2,6 +2,9 @@
 
 ##  About the Project
 Phishing attacks are a growing cybersecurity threat, and this Phishing Website Detection project provides a fast and effective way to identify potentially unsafe websites. By leveraging machine learning (XGBoost) and integrating a Flask backend with a simple HTML, CSS, and JavaScript frontend, this tool offers an easy-to-use solution for users to verify website safety.
+
+##  Live Demo
+https://phishing-website-detection-app.streamlit.app/
 ##  Features
 - **URL-based feature extraction** (e.g., presence of IP, URL length, redirections, etc.).
 - **Machine Learning model (XGBoost) for classification**.
